@@ -1,0 +1,12 @@
+
+V
+squid:S106
+"9Replace this use of System.out or System.err by a logger.(ç”çË8£“ÁÉ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğŞ¼Î8›ßÑ›É/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÑáŸÙûÿÿÿÿ8ÁæÏ›É/
+>squid:S2129!" Remove this "String" constructor(â˜Ê”8ËèÀœÉ/
+Rsquid:S2201""/The return value of "toLowerCase" must be used.( ‡½•ÿÿÿÿÿ8ËèÀœÉ/
+\squid:S11554">Use isEmpty() to check whether the collection is empty or not.(¾‰ƒ¯8óí™šÉ/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ

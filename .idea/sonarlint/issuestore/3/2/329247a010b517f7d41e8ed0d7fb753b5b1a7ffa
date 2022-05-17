@@ -1,0 +1,14 @@
+
+nsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(üóô¿þÿÿÿÿ8Üµÿ´/
+v
+squid:S135;"YReduce the total number of break and continue statements in this loop to use at most one.(ÃÅò›8úÿý´/
+squid:S1319&"lThe type of the "a" object should be an interface such as "List" rather than the implementation "ArrayList".(õ‰ƒÛûÿÿÿÿ8é… ¤´/
+isquid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Ò³¬½8Ü–öþ´/
+isquid:CommentedOutCodeLine4"<This block of commented-out lines of code should be removed.(¢Åæ8ýäŠÿ´/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ç–‘á8ô°ƒ€µ/
+nsquid:CommentedOutCodeLinen"<This block of commented-out lines of code should be removed.(ÿ‰œˆýÿÿÿÿ8Ü–öþ´/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+psquid:S3776*"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(êõŒï8°¥˜ý´/
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8¸Á…€µ/

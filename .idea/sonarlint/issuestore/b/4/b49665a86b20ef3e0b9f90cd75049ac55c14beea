@@ -1,0 +1,11 @@
+
+Tsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+nsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùš†şÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+ˆsquid:S1319 "lThe type of the "A" object should be an interface such as "List" rather than the implementation "ArrayList".(Ùš†şÿÿÿÿ
+Œsquid:S1319 "pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ùš†şÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û¤ˆàÿÿÿÿÿ
+Qsquid:UselessImportCheck".Remove this unused import 'java.util.HashSet'.(Ê‚êX
+nsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùš†şÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹áµê
